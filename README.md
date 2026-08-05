@@ -21,9 +21,9 @@
 Nikmati keseruan klasik *Dragon Mania* dengan terjemahan Bahasa Indonesia, penyesuaian layar **360x480 landscape**, serta fitur cheat manja untuk pengalaman bermain santai dan penuh nostalgia.  
 
 ## 📸 Screenshot
-![Dragon Mania Screenshot 1](https://raw.githubusercontent.com/Heyrizki/MODJ2ME/main/assets/763263132_27392915770409078_8293190550449864007_n.jpg)
-![Dragon Mania Screenshot 2](https://raw.githubusercontent.com/Heyrizki/MODJ2ME/main/assets/762324938_27392915273742461_1217824916023293224_n.jpg)
-![Dragon Mania Screenshot 3](https://raw.githubusercontent.com/Heyrizki/MODJ2ME/main/assets/761615122_27392915523742436_3754645578844032950_n.jpg)
+![Dragon Mania Screenshot 1](763263132_27392915770409078_8293190550449864007_n.jpg)
+![Dragon Mania Screenshot 2](762324938_27392915273742461_1217824916023293224_n.jpg)
+![Dragon Mania Screenshot 3](761615122_27392915523742436_3754645578844032950_n.jpg)
 
 
 ✨ **Fitur Cheat:**  
