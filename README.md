@@ -33,7 +33,7 @@ Nikmati keseruan klasik *Dragon Mania* dengan terjemahan Bahasa Indonesia, penye
 - Uang tidak habis-habis  
 - Aktivasi cheat: masuk ke **Menu → Option → /cheat**
 
-* 🔗 **Unduh Game:** [Dragon Mania - Bahasa Indonesia + Cheat Manja](https://github.com/Heyrizki/MODJ2ME/tree/Dragon-Mania-Bahasa-Indonesia-Cheat-Manja)
+* 🔗 **Unduh Game:** [Dragon Mania - Bahasa Indonesia + Cheat Manja]((DOWNLOAD) DRAGON MANIA Bahasa Indonesia + Cheat Manja.jar)
 
 ---
 
